@@ -11,6 +11,8 @@
     "@slidev/cli": "^0.49.10",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "@iconify/json": "^2.2.217",
+    "markdown-it-magic-link": "^0.1.4",
     "vue": "^3.4.27"
   }
 }
