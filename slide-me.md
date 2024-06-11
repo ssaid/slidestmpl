@@ -12,16 +12,16 @@ class: pl-25
 CTO @ {Eynes}<br>
 </div>
 <div my-10 w-min flex="~ gap-1" items-center justify-center>
-  <div i-ri-user-3-line op50 ma text-xl />
+  <div op50 ma text-xl />
   <i> <carbon-user /> </i>
   <div><a href="https://said.ar" target="_blank" class="border-none! font-300">said.ar</a></div>
-  <div i-ri-github-line op50 ma text-xl ml4/>
+  <div op50 ma text-xl ml4/>
   <i> <carbon-logo-github /> </i>
   <div><a href="https://github.com/ssaid" target="_blank" class="border-none! font-300">ssaid</a></div>
-  <div i-ri-mastodon-line op50 ma text-xl ml4 />
+  <div op50 ma text-xl ml4 />
   <i> <carbon-link /> </i>
   <div><a href="https://eynes.com.ar/" target="_blank" class="border-none! font-300">Eynes</a></div>
-  <div i-ri-twitter-x-line op50 ma text-xl ml4/>
+  <div op50 ma text-xl ml4/>
   <i> <carbon-logo-linkedin /> </i>
   <div><a href="https://www.linkedin.com/in/santiago-javier-said-58813221" target="_blank" class="border-none! font-300">said</a></div>
 </div>
