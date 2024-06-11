@@ -15,7 +15,7 @@ export default defineConfig({
             'Odoo': 'https://github.com/odoo/odoo',
             'Gitlab': 'https://github.com/gitlabhq',
             'Kubernetes': 'https://github.com/kubernetes/kubernetes',
-            'Github': { link: 'https://github.com', imageUrl: '/logos/github_.png' },
+            'Github': { link: 'https://github.com', imageUrl: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' },
             'Eynes': 'https://github.com/eynes',
           },
         })
